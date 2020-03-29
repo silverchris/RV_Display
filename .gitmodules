@@ -1,0 +1,12 @@
+[submodule "lv_drivers"]
+	path = lv_drivers
+	url = https://github.com/littlevgl/lv_drivers.git
+[submodule "lvgl"]
+	path = lvgl
+	url = https://github.com/littlevgl/lvgl.git
+[submodule "libwebsockets"]
+	path = libwebsockets
+	url = https://libwebsockets.org/repo/libwebsockets
+[submodule "ArduinoJson"]
+	path = ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
